@@ -4,7 +4,7 @@ Installation
 install on debian based distribution
 
 step 1:
-git clone https://github.com/AysadKozanoglu/RTMP_MEDIA_STREAMING_SERVER.git
+git clone https://github.com/rudi1983/nginx-rtmp-hls-live-streaming-Server-Installation.git
 
 step 2:
 cd RTMP_MEDIA_STREAMING_SERVER && chmod +x install-rtmp-server.sh && ./install-rtmp-server.sh
